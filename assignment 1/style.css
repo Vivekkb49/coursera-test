@@ -1,0 +1,219 @@
+h1{
+    text-align: center;
+}
+@media(min-width:992px){
+.div1{
+    width: 402px;
+    height: auto;
+    background-color: grey;
+    float: left;
+    margin:20px;
+    border: 2px solid black;
+}
+.div2{
+     width: 402px;
+    height: auto;
+    background-color: grey;
+    float: left;
+    margin:20px;
+    border: 2px solid black;
+}
+.chicken{
+    width: 148px;
+    height: 28px;
+    background-color: hotpink;
+    float: right;
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+     font-family: Andale Mono, monospace;
+    
+
+}
+.blank{
+    width: 250px;
+    height: 30px;
+    background-color: grey;
+    float: left;
+    
+
+}
+.blank2{
+    width: 250px;
+    height: 30px;
+    background-color: grey;
+    float: left;
+    
+
+}
+.Beef{
+    width: 148px;
+    height: 28px;
+    color:wheat;
+    background-color:rgb(139, 13, 13);
+    float: right;
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+     font-family: Andale Mono, monospace;
+}
+.Sushi{
+     width: 148px;
+    height: 28px;
+    
+    background-color:rgb(206, 206, 112);
+    float: right;
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+     font-family: Andale Mono, monospace;
+}
+.content{
+    padding: 10px;
+     font-family: Andale Mono, monospace;
+}
+}
+@media(min-width:768px) and (max-width:992px)
+{
+.div1{
+    width: 402px;
+    height: auto;
+    background-color: grey;
+    float: left;
+    margin:20px;
+    border: 2px solid black;
+}
+.div2{
+     width: 850px;
+    height: auto;
+    background-color: grey;
+    float: left;
+    margin:20px;
+    border: 2px solid black;
+}
+.chicken{
+    width: 148px;
+    height: 28px;
+    background-color: hotpink;
+    float: right;
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+     font-family: Andale Mono, monospace;
+    
+
+}
+.blank{
+    width: 250px;
+    height: 30px;
+    background-color: grey;
+    float: left;
+}
+.blank2{
+    width: 700px;
+    height: 30px;
+    background-color: grey;
+    float: left;
+    
+
+}
+.Beef{
+    width: 148px;
+    height: 28px;
+    color:wheat;
+    background-color:rgb(139, 13, 13);
+    float: right;
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+     font-family: Andale Mono, monospace;
+}
+.Sushi{
+     width: 148px;
+    height: 28px;
+    
+    background-color:rgb(206, 206, 112);
+    float: right;
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+     font-family: Andale Mono, monospace;
+}
+.content{
+    padding: 10px;
+     font-family: Andale Mono, monospace;
+}
+
+}
+@media(max-width:767px){
+.div1{
+    width: 402px;
+    height: auto;
+    background-color: grey;
+    float: left;
+    margin:20px;
+    border: 2px solid black;
+}
+.div2{
+     width: 402px;
+    height: auto;
+    background-color: grey;
+    float: left;
+    margin:20px;
+    border: 2px solid black;
+}
+.chicken{
+    width: 148px;
+    height: 28px;
+    background-color: hotpink;
+    float: right;
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+     font-family: Andale Mono, monospace;
+    
+
+}
+.blank{
+    width: 250px;
+    height: 30px;
+    background-color: grey;
+    float: left;
+    
+
+}
+.blank2{
+    width: 250px;
+    height: 30px;
+    background-color: grey;
+    float: left;
+    
+
+}
+.Beef{
+    width: 148px;
+    height: 28px;
+    color:wheat;
+    background-color:rgb(139, 13, 13);
+    float: right;
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+     font-family: Andale Mono, monospace;
+}
+.Sushi{
+     width: 148px;
+    height: 28px;
+    
+    background-color:rgb(206, 206, 112);
+    float: right;
+    text-align: center;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+     font-family: Andale Mono, monospace;
+}
+.content{
+    font-family: Andale Mono, monospace;
+    padding: 10px;
+}
+}

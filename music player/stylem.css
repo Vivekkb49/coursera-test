@@ -1,0 +1,254 @@
+h1{
+    text-align: center;
+    background-color: navajowhite;
+}
+body{
+     background-color: lightsalmon;
+}
+@media(min-width:1050px){
+.maindiv{
+    width: 1200px;
+     height:1650px;
+     background-color:#D57F6C;
+     margin:100px;
+     padding: 50px;
+     padding-bottom: 50px;
+
+}
+.asong{
+     width: 300px;
+     height: 450px;
+     background-color: aqua;
+     float: left;
+     padding: 50px;
+
+}
+.bsong{
+     width: 300px;
+     height: 450px;
+     background-color:fuchsia;
+     float: left;
+     padding: 50px;
+
+}
+.csong{
+     width: 300px;
+     height: 450px;
+     background-color:gold;
+     float: left;
+     padding: 50px;
+
+}
+.dsong{
+     width: 300px;
+     height: 450px;
+     background-color:hotpink;
+     float: left;
+     padding: 50px;
+}
+.esong{
+     width: 300px;
+     height: 450px;
+     background-color:burlywood;
+     float: left;
+     padding: 50px;
+
+}
+.fsong{
+     width: 300px;
+     height: 450px;
+     background-color:teal;
+     float: left;
+     padding: 50px;
+
+}
+.gsong{
+     width: 300px;
+     height: 450px;
+     background-color:greenyellow;
+     float: left;
+     padding: 50px;
+
+}
+.hsong{
+     width: 300px;
+     height: 450px;
+     background-color:navy;
+     float: left;
+     padding: 50px;
+
+}
+.isong{
+     width: 300px;
+     height: 450px;
+     background-color:lightgreen;
+     float: left;
+     padding: 50px;
+
+}
+}
+@media(min-width:768px) and (max-width:1050px){
+.maindiv{
+    width: 800px;
+     height:2750px;
+     background-color:#D57F6C;
+     margin:50px;
+     
+     padding: 50px;
+     
+
+}
+.asong{
+     width: 300px;
+     height: 450px;
+     background-color: aqua;
+     float: left;
+     padding: 50px;
+
+}
+.bsong{
+     width: 300px;
+     height: 450px;
+     background-color:fuchsia;
+     float: left;
+     padding: 50px;
+
+}
+.csong{
+     width: 300px;
+     height: 450px;
+     background-color:gold;
+     float: left;
+     padding: 50px;
+
+}
+.dsong{
+     width: 300px;
+     height: 450px;
+     background-color:hotpink;
+     float: left;
+     padding: 50px;
+}
+.esong{
+     width: 300px;
+     height: 450px;
+     background-color:burlywood;
+     float: left;
+     padding: 50px;
+
+}
+.fsong{
+     width: 300px;
+     height: 450px;
+     background-color:teal;
+     float: left;
+     padding: 50px;
+
+}
+.gsong{
+     width: 300px;
+     height: 450px;
+     background-color:greenyellow;
+     float: left;
+     padding: 50px;
+
+}
+.hsong{
+     width: 300px;
+     height: 450px;
+     background-color:navy;
+     float: left;
+     padding: 50px;
+
+}
+.isong{
+     width: 300px;
+     height: 450px;
+     background-color:lightgreen;
+     float: left;
+     padding: 50px;
+
+}
+}
+@media(max-width:767px){
+.maindiv{
+    width: 400px;
+     height:4950px;
+     background-color:#D57F6C;
+     margin:100px;
+     padding: 50px;
+     
+
+}
+.asong{
+     width: 300px;
+     height: 450px;
+     background-color: aqua;
+     float: left;
+     padding: 50px;
+
+}
+.bsong{
+     width: 300px;
+     height: 450px;
+     background-color:fuchsia;
+     float: left;
+     padding: 50px;
+
+}
+.csong{
+     width: 300px;
+     height: 450px;
+     background-color:gold;
+     float: left;
+     padding: 50px;
+
+}
+.dsong{
+     width: 300px;
+     height: 450px;
+     background-color:hotpink;
+     float: left;
+     padding: 50px;
+}
+.esong{
+     width: 300px;
+     height: 450px;
+     background-color:burlywood;
+     float: left;
+     padding: 50px;
+
+}
+.fsong{
+     width: 300px;
+     height: 450px;
+     background-color:teal;
+     float: left;
+     padding: 50px;
+
+}
+.gsong{
+     width: 300px;
+     height: 450px;
+     background-color:greenyellow;
+     float: left;
+     padding: 50px;
+
+}
+.hsong{
+     width: 300px;
+     height: 450px;
+     background-color:navy;
+     float: left;
+     padding: 50px;
+
+}
+.isong{
+     width: 300px;
+     height: 450px;
+     background-color:lightgreen;
+     float: left;
+     padding: 50px;
+
+}
+}
